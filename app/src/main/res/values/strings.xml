@@ -2,5 +2,6 @@
     <string name="app_name">GuessingGame</string>
     <string name="start">start</string>
     <string name="guessing_game">Guessing Game</string>
-    <string name="directions">Guess a number between 1-100. You will be told wether you have guessed too high or too low.\n You have 5 tries.\n Good luck</string>
+    <string name="directions">Guess a number between 1 &#8211; 100. You will be told whether you have guessed too high or too low.\n You have 5 tries.\n Good luck</string>
+    <string name="guess_a_number">Guess a number</string>
 </resources>
