@@ -7,4 +7,10 @@
     <string name="invalid_number_message">Enter a number between 1 - 100</string>
     <string name="number_low">Too Low</string>
     <string name="number_high">Too High</string>
+    <string name="submit_button">submit</string>
+    <string name="_1_100">1 – 100</string>
+    <string name="higher">Higher</string>
+    <string name="winning_number">The Winning number was %1$i</string>
+    <string name="winner">You Won!</string>
+    <string name="button">Button</string>
 </resources>
